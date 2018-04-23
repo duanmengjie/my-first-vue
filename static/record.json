@@ -1,0 +1,19 @@
+{
+  "result": "00000000",
+  "msg": "操作成功",
+  "list":{
+    "tableData3": [{
+      "gmt_create": "2016-05-07",
+      "buyer_logon_id": "1332252552@qq.com",
+      "trade_no": "620125125254211",
+      "fund_bill_list": "COUPON",
+      "body": "描述信息",
+      "buyer_pay_amount": "120.00",
+      "trade_status": "TRADE_SUCCESS"
+    }],
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalPage": 5,
+    "totalNum": 9
+  }
+}
